@@ -10,7 +10,7 @@
   <img align="center" alt="mika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mika-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mika-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img align="right" alt="mika-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/855853915626405928/903271293791641610/20965_NLVFxWyq.png?width=473&height=473">
+  <img align="right" alt="mika-pic" height="150" style="border-radius:50px;" src="gif.gif">
 </div>
   
   ##
