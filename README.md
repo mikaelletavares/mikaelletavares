@@ -1,6 +1,6 @@
 <h4 align="center">
 
-### Olá, eu sou Mikaelle Tavares  
+## Olá, eu sou Mikaelle Tavares 
 - 🌱 Estudando ReactJS e Flutter
 - 🖊️ Desenhista 
 - 🎯 Desenvolvedora Front-end
