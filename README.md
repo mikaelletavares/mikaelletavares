@@ -2,7 +2,7 @@
 
 ## Olá, eu sou Mikaelle Tavares 
 - 🌱 Estudando ReactJS e Flutter
-- 🖊️ Desenhista 
+- 🖊️ Ilustradora 
 - 🎯 Desenvolvedora Front-end
   
 <div style="display: inline_block"><br>
