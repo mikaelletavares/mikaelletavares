@@ -1,9 +1,9 @@
 <h4 align="center">
 
 ## Olá, eu sou Mikaelle Tavares 
-- 🌱 Estudando ReactJS e Flutter
+- 🌱 Estudando Flutter
 - 🖊️ Ilustradora 
-- 🎯 Desenvolvedora Front-end
+- 🎯 Desenvolvedora Front-end e Mobile
   
 <div style="display: inline_block"><br>
   <img align="center" alt="mika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
