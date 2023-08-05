@@ -1,16 +1,16 @@
 <h4 align="center">
 
 ## Olá, eu sou Mikaelle Tavares 
-- 🌱 Estudando Flutter
-- 🖊️ Ilustradora 
+- 🌱 Estudando React
 - 🎯 Desenvolvedora Front-end e Mobile
+- 🖊️ Ilustradora
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="mika-FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="mika-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="mika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mika-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mika-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="mika-FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
   <img align="right" alt="mika-PIC" height="150" style="border-radius:50px;" src="gif-github.gif">
 </div>
   
