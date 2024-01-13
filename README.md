@@ -1,14 +1,23 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F799C0&random=false&width=435&lines=Ol%C3%A1%2C+dev!+Eu+me+chamo+Mika.+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;Sou+dev+mobile.+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)!+%F0%9F%A9%B7)](https://git.io/typing-svg)
 
- ## Sobre mim
+ ## 💫 About Me
 
->👩🏾‍💻 Dev Mobile
+>👩🏾‍💻 I'm a mobile developer
 >
->🎓 Estudante de Análise e desenvolvimento de sistemas
+>🎓 Systems Analysis and Development Student
 >
->📱 Flutter/Dart
+>📱 Currently I am focused on specializing in Mobile development, I am immersed in the study of Dart and Flutter.
 
  <br/>
+
+## **Minhas redes sociais**
+
+<div> 
+  <a href="https://www.linkedin.com/in/mikaelle-tavares/" target="_blank"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
+  <a href = "https://twitter.com/mikasdev"><img src="![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5571986330555" target="_blank"><img src="![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" target="_blank"></a>
+</div>
+<br/>
 
 ## 🚀 Hard Skills
   <div style="display: inline_block"><br>
@@ -30,12 +39,4 @@
 </div>
 
 <br>
-
-### **Minhas redes sociais**
-
-<div> 
-  <a href="https://instagram.com/mikahlt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mikaelle.tavares.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mikaelle-tavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
