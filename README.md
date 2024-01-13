@@ -13,9 +13,9 @@
 ## **Minhas redes sociais**
 
 <div> 
-  <a href="https://www.linkedin.com/in/mikaelle-tavares/" target="_blank"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
-  <a href = "https://twitter.com/mikasdev"><img src="![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5571986330555" target="_blank"><img src="![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mikaelle-tavares/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/mikasdev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5571986330555" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 <br/>
 
