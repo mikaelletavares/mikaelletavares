@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F799C0&random=false&width=435&lines=Ol%C3%A1%2C+dev!+Eu+me+chamo+Mika.+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;Sou+dev+mobile.+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)!+%F0%9F%A9%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78BAF&random=false&width=435&lines=Hello+Dev!+My+name+is+Mikaelle.+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;I'm+a+mobile+developer.+%F0%9F%93%B1;Welcome!+%F0%9F%A9%B7)](https://git.io/typing-svg)
 
  ## 💫 About Me
 
