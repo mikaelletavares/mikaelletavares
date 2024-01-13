@@ -10,7 +10,7 @@
 
  <br/>
 
-## **Minhas redes sociais**
+## 🌐 Socials
 
 <div> 
   <a href="https://www.linkedin.com/in/mikaelle-tavares/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-## 🚀 Hard Skills
+## 🚀 Technologies
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +36,7 @@
  <br/>
  
  ![](lineBar.png)
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Stats
 
 <div>
 <a href="https://github.com/mikaelletavares">
