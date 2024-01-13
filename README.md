@@ -8,8 +8,6 @@
 >
 >📱 Currently I am focused on specializing in Mobile development, I am immersed in the study of Dart and Flutter.
 
- <br/>
-
 ## 🌐 Socials
 
 <div> 
@@ -17,7 +15,6 @@
   <a href = "https://twitter.com/mikasdev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5571986330555" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-<br/>
 
 ## 🚀 Technologies
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -33,15 +30,10 @@
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
- <br/>
- 
- ![](lineBar.png)
 ## ⭐ Stats
 
 <div>
 <a href="https://github.com/mikaelletavares">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelletavares&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<br>
 
